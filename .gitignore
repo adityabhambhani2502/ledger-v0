@@ -6,3 +6,4 @@ client/dist/
 .vercel
 *.log
 uploads/
+.vercel-tmp/
